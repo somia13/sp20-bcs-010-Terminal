@@ -1,0 +1,18 @@
+---------------------WEB APP-----------------------
+
+--> npm init react-app name
+--> cd name
+--> code .
+--> npm start
+
+----fr routes
+-> npm i react-router-dom
+
+--mui
+-> npm install @material-ui/core
+for icons
+npm install @mui/icons-material
+
+lab component b install
+npm install @material-ui/lab
+npm install @material-ui/core
